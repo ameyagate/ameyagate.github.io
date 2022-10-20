@@ -1,7 +1,7 @@
 # AmeyaGate_Portfolio
 ## Data Science
 
-### [Project 1: Price Prediction Tool in Python](https://github.com/ameyagate/ameyagate.github.io/blob/main/jupyter_regression.ipynb)
+### [Project 1: Price Prediction Tool in Python](https://github.com/ameyagate/ameyagate.github.io/blob/1b478116aa737572a393c5b5123d9f92fe1aa4b4/Netflix%20Movie%20Suggestions.ipynb)
 * Built data science model to predict the price of pre-owned cars for dataset of 50000+ line items in Python
 * Identified high impact variables and implemented 2 machine learning models: Random Forest and Linear Regression
 
