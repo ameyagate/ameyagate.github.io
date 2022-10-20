@@ -5,7 +5,7 @@
 * Built data science model to predict the price of pre-owned cars for dataset of 50000+ line items in Python
 * Identified high impact variables and implemented 2 machine learning models: Random Forest and Linear Regression
 
-### [Project 2: Price Prediction Tool in Python (https://github.com/ameyagate/ameyagate.github.io/blob/476fe1144e908bcadc2f9d5773a21cc095997169/Netflix%20Movie%20Suggestions.ipynb)
+### [Project 2: Price Prediction Tool in Python](https://github.com/ameyagate/ameyagate.github.io/blob/476fe1144e908bcadc2f9d5773a21cc095997169/Netflix%20Movie%20Suggestions.ipynb)
 * Performed market-basket analysis on Netflix dataset to derive rules using Apriori algorithm and to suggest relevant movies to the customers
 * Computed association between the movies based on the watch history using support, confidence, lift, leverage and Zhang's metrics 
 
