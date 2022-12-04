@@ -2,8 +2,8 @@
 ## Data Science
 
 ### [Project 1: Credit-Risk-Modeling-in-Python](https://github.com/ameyagate/Credit-Risk-Modeling-in-Python/blob/main/Credit%20Risk%20Modeling.ipynb)
-* Developed predictive model to identify credit risk by performing exploratory data analysis (EDA), feature engineering and achieved 94% accuracy score
-* Implemented 4 machine learning algorithms : k-means Clustering, Decision Tree Classifier, Random Forest Classifier, Logistic Regression and Support Vector Classifier
+* Developed predictive model to identify credit risk, performed data transformation (one-hot encoding, min-max normalization) and exploratory data analysis (EDA), resulting in 94% accuracy score
+* Implemented 6 machine learning algorithms : K-means Clustering, Decision Tree Classifier, Logistic Regression, Random Forest Classifier, k-Nearest Neighbor and Support Vector Classifier in Python
 
 ### [Project 2: Netflix Movie Recommendation Tool in Python](https://github.com/ameyagate/ameyagate.github.io/blob/476fe1144e908bcadc2f9d5773a21cc095997169/Netflix%20Movie%20Suggestions.ipynb)
 * Performed market-basket analysis on Netflix dataset to derive rules using Apriori algorithm and to recommend relevant movies to the customers
