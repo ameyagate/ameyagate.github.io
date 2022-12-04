@@ -9,7 +9,7 @@
 * Performed market-basket analysis on Netflix dataset to derive rules using Apriori algorithm and to recommend relevant movies to the customers
 * Computed association between the movies based on the watch history using support, confidence, lift, leverage and Zhang's metrics 
 
-### [Project 3: Analyzing Customer Churn in Power BI](https://github.com/ameyagate/ameyagate.github.io/bl
+### [Project 3: Analyzing Customer Churn in Power BI](https://github.com/ameyagate/PowerBI/blob/main/Dashboard%20for%20Customer%20Churn%20in%20Telecom%20Industry.pdf)
 * Created user-friendly dashboard and visualized metrics to identify reasons leading to customer churn using Power BI
 * Computed new measures using Data Analysis Expressions (DAX) to capture correlation between variables leading to churn
 
